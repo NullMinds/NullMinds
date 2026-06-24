@@ -1,16 +1,105 @@
-## Hi there 👋
+# Hi, I'm Mohammad Raza 👋
 
-<!--
-**NullMinds/NullMinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security Researcher | VAPT Consultant | Founder of Null Minds
 
-Here are some ideas to get you started:
+I am a Security Researcher focused on identifying vulnerabilities, breaking assumptions, and helping organizations secure their applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary areas of interest include:
+
+* Web Application Security
+* API Security Testing
+* Mobile Application Security
+* Network Security
+* Vulnerability Research
+* Bug Bounty Hunting
+
+---
+
+## About Me
+
+* 🔐 Security Researcher
+* 🎯 Focused on Offensive Security and Application Security
+* 📚 Continuously learning and improving security methodologies
+* 🚀 Currently preparing for OSCP and CPENT
+* 🇮🇳 Based in India
+
+---
+
+## Certifications
+
+* CEH Master v12
+* eWPTX v3
+
+---
+
+## Technical Skills
+
+### Application Security
+
+* Web Application Security Testing
+* API Security Testing
+* Mobile Application Security Testing
+* Secure Code Review
+* Vulnerability Assessment & Penetration Testing
+
+### Tools
+
+* Burp Suite Professional
+* Nmap
+* Nessus
+* ffuf
+* httpx
+* nuclei
+* amass
+* subfinder
+* Wireshark
+* Metasploit
+
+### Programming & Scripting
+
+* Python
+* Bash
+* JavaScript
+
+---
+
+## Featured Projects
+
+### Web Pentest Playbook
+
+Comprehensive methodology and testing notes for web application security assessments.
+
+### API Security Playbook
+
+Practical API security testing methodologies based on OWASP API Security Top 10.
+
+### Bug Bounty Checklist
+
+A structured checklist for Web, API and Mobile Security testing.
+
+### CVE Hunting
+
+Research notes, methodologies and resources for vulnerability discovery.
+
+---
+
+## Current Goals
+
+* Build practical security tools and automation
+* Publish security research and writeups
+* Contribute to the cybersecurity community
+* Complete OSCP and CPENT
+
+---
+
+## Connect With Me
+
+📧 Email: [nullmindz@gmail.com](mailto:nullmindz@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/dmmdraza
+
+🐙 GitHub: https://github.com/NullMinds
+
+---
+
+> Finding vulnerabilities | Breaking assumptions | Securing applications.
