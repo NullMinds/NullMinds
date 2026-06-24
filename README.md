@@ -1,6 +1,9 @@
 # Hi, I'm Mohammad Raza 👋
 
-### Security Researcher | VAPT Consultant | Founder of Null Minds
+🔐 Security Researcher  
+🌐 Web • API • Mobile Security  
+🎯 CEH Master v12 | eWPTX v3  
+🚀 OSCP & CPENT Candidate
 
 I am a Security Researcher focused on identifying vulnerabilities, breaking assumptions, and helping organizations secure their applications.
 
@@ -57,7 +60,7 @@ My primary areas of interest include:
 
 ### Programming & Scripting
 
-* Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * Bash
 * JavaScript
 
